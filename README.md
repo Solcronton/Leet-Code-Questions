@@ -11,4 +11,8 @@ leet code questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
