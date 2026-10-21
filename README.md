@@ -7,6 +7,7 @@ leet code questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ leet code questions
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
