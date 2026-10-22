@@ -7,6 +7,7 @@ leet code questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -25,6 +26,7 @@ leet code questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
