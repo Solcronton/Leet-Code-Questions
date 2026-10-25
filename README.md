@@ -27,6 +27,7 @@ leet code questions
 | ------- |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -102,4 +103,12 @@ leet code questions
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
