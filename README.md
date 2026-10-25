@@ -16,6 +16,7 @@ leet code questions
 | ------- |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -27,6 +28,7 @@ leet code questions
 | ------- |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
 ## Binary Search
@@ -62,6 +64,7 @@ leet code questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +114,8 @@ leet code questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
