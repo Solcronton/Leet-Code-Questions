@@ -9,6 +9,7 @@ leet code questions
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -16,6 +17,7 @@ leet code questions
 | ------- |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 ## String
@@ -73,6 +75,7 @@ leet code questions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
