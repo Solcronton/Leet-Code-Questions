@@ -108,6 +108,7 @@ leet code questions
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -121,4 +122,8 @@ leet code questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
