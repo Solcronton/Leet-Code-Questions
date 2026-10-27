@@ -12,6 +12,7 @@ leet code questions
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ leet code questions
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,8 @@ leet code questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
