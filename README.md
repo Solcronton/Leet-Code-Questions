@@ -6,6 +6,7 @@ leet code questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
@@ -19,6 +20,7 @@ leet code questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
@@ -150,4 +152,8 @@ leet code questions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
