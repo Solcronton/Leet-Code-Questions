@@ -10,6 +10,7 @@ leet code questions
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
@@ -23,6 +24,7 @@ leet code questions
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
@@ -96,6 +98,7 @@ leet code questions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
@@ -165,4 +168,12 @@ leet code questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
