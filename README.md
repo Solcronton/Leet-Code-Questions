@@ -42,6 +42,7 @@ leet code questions
 | [0012-integer-to-roman](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
@@ -176,4 +177,12 @@ leet code questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
