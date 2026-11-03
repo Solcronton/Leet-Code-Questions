@@ -37,6 +37,7 @@ leet code questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ leet code questions
 | [0012-integer-to-roman](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0202-happy-number) |
@@ -118,6 +120,7 @@ leet code questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0231-power-of-two) |
@@ -148,6 +151,7 @@ leet code questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
