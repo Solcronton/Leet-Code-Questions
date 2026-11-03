@@ -13,6 +13,7 @@ leet code questions
 | [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -184,6 +185,7 @@ leet code questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
