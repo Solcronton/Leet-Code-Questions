@@ -38,6 +38,7 @@ leet code questions
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leet code questions
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ leet code questions
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +128,7 @@ leet code questions
 | [0191-number-of-1-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
