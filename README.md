@@ -9,6 +9,7 @@ leet code questions
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
@@ -207,4 +208,8 @@ leet code questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
