@@ -10,6 +10,7 @@ leet code questions
 | [0027-remove-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
@@ -191,6 +192,7 @@ leet code questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 ## Quicksort
 |  |
@@ -203,6 +205,7 @@ leet code questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
