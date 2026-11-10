@@ -12,6 +12,7 @@ leet code questions
 | [0035-search-insert-position](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
@@ -190,6 +191,7 @@ leet code questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ leet code questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0097-interleaving-string) |
