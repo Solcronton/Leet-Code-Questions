@@ -39,6 +39,7 @@ leet code questions
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
