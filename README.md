@@ -25,6 +25,7 @@ leet code questions
 | [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ leet code questions
 | [0091-decode-ways](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0097-interleaving-string) |
 | [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
