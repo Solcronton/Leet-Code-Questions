@@ -56,6 +56,7 @@ leet code questions
 | ------- |
 | [0007-reverse-integer](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
@@ -136,6 +137,7 @@ leet code questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0190-reverse-bits) |
