@@ -2,7 +2,6 @@ class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         INT_MAX, INT_MIN = 2**31 - 1, -2**31
 
-        # The only overflow case
         if dividend == INT_MIN and divisor == -1:
             return INT_MAX
 
@@ -11,7 +10,7 @@ class Solution:
 
         result = 0
         for shift in range(31, -1, -1):
-            if (a >> shift) >= b:      # same as a >= b << shift
+            if (a >> shift) >= b:      
                 a -= b << shift
                 result += 1 << shift
 
