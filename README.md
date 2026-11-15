@@ -27,6 +27,7 @@ leet code questions
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,4 +234,5 @@ leet code questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0048-rotate-image) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
