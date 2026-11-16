@@ -29,6 +29,7 @@ leet code questions
 | [0396-rotate-function](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0396-rotate-function) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ leet code questions
 | [0097-interleaving-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0097-interleaving-string) |
 | [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@ leet code questions
 | [0043-multiply-strings](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
+| [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
