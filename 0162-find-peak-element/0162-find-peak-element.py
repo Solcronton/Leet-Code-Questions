@@ -5,12 +5,12 @@ class Solution:
 
         if n==1 :
             return 0
-        if n==2:
+        elif n==2:
             if nums[0]>nums[1]:
                 return 0
             else:
                 return 1
-        if n==3:
+        elif n==3:
             if nums[1]>nums[0] and nums[1]>nums[2]:
                 return 1
         if n%2==1:
