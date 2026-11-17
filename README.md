@@ -30,6 +30,7 @@ leet code questions
 | [0396-rotate-function](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0396-rotate-function) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
