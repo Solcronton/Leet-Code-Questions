@@ -8,11 +8,9 @@ class Solution:
                 result.append(curr.copy())
                 return
 
-            # Include current element
             curr.append(nums[i])
             backtrack(i + 1)
 
-            # Exclude current element
             curr.pop()
             backtrack(i + 1)
 
