@@ -17,6 +17,7 @@ leet code questions
 | [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ leet code questions
 | ------- |
 | [0029-divide-two-integers](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0191-number-of-1-bits) |
@@ -241,6 +243,7 @@ leet code questions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
