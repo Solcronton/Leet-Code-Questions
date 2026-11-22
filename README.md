@@ -165,6 +165,7 @@ leet code questions
 | [0231-power-of-two](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
@@ -250,6 +251,7 @@ leet code questions
 | ------- |
 | [0046-permutations](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
