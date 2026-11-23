@@ -83,6 +83,7 @@ leet code questions
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0400-nth-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ leet code questions
 | [0069-sqrtx](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0400-nth-digit) |
 ## Newton's Method
 |  |
 | ------- |
