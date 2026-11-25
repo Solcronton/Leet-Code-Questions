@@ -1,11 +1,10 @@
 class Solution:
     def getHint(self, secret: str, guess: str) -> str:
-        a=0
-        b=0
+        a = 0
+        b = 0
 
-        s=[0]*10
-        g=[0]*10
-
+        s = [0] * 10
+        g = [0] * 10
 
         for i in range(len(secret)):
             if secret[i] == guess[i]:
@@ -18,4 +17,3 @@ class Solution:
             b += min(s[i], g[i])
 
         return str(a) + "A" + str(b) + "B"
-        
