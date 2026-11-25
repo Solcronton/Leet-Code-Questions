@@ -61,6 +61,7 @@ leet code questions
 | [0072-edit-distance](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0097-interleaving-string) |
+| [0299-bulls-and-cows](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
@@ -127,6 +128,7 @@ leet code questions
 | [0217-contains-duplicate](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@ leet code questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
