@@ -85,6 +85,7 @@ leet code questions
 | [0326-power-of-three](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0400-nth-digit) |
+| [3360-stone-removal-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ leet code questions
 | [0067-add-binary](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0258-add-digits) |
 | [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
