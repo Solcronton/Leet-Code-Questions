@@ -35,6 +35,7 @@ leet code questions
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Solcronton/Leet-Code-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Solcronton/Leet-Code-Questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3248-snake-in-matrix) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ leet code questions
 | [0011-container-with-most-water](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0055-jump-game) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -249,6 +251,7 @@ leet code questions
 | [0097-interleaving-string](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Solcronton/Leet-Code-Questions/tree/master/0396-rotate-function) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Solcronton/Leet-Code-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
